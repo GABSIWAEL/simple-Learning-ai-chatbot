@@ -1,5 +1,5 @@
 
-Certainly! Here's a more detailed description for your project:
+
 
 Simple Greeting Chatbot
 The Simple Greeting Chatbot is a Python-based conversational agent that engages users in friendly interactions. Designed with simplicity in mind, the chatbot responds to greetings, inquiries, and learns from user input to improve its conversational abilities over time.
